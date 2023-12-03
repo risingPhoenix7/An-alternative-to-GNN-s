@@ -1,6 +1,3 @@
-# An-alternative-to-GNN-s
-Implementation of , we show that for many standard transductive node classification benchmarks, we can exceed or match the performance of state-of-the-art GNNs by combining shallow models that ignore the graph structure with two simple post-processing steps that exploit correlation in the label structure: (i) an “error correlation” that spreads residual errors in training data to correct errors in test data and (ii) a “prediction correlation” that smooths the predictions on the test data.
-
 # An Alternative to GNNs for Graph Data
 
 ## Introduction
