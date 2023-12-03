@@ -15,6 +15,7 @@ We show that for many standard transductive node classification benchmarks, we c
 ![image](https://github.com/risingPhoenix7/An-alternative-to-GNN-s/assets/96655704/a0eedf0b-614c-45fc-a745-e84f55b65949)
 
 ## Contributed by:
-Achinthya Hebbar
-Ohiduz Zaman
-Arijeet Sengupta
+- Achinthya Hebbar
+- Ohiduz Zaman
+- Arijeet Sengupta
+
